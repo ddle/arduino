@@ -3,7 +3,6 @@
 
 /*
  * arduino library for QRD1114 reflectance sensor
- * Dung Le, 2013
  */
 
 #include <Arduino.h>

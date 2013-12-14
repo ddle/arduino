@@ -1,7 +1,6 @@
 /******************************************************************************/
 /*
  * arduino library for TCS3414CS color sensor
- * Dung Le, 2013
  */
 
 #ifndef TCS3414CS_h
